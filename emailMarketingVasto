@@ -33,10 +33,10 @@
 					<img src="./imagens/imagem.png" alt="Foto do produto"/>
 					<h1 style="color: #5F3AA2">Inovação para Realizar</h1>
 					<p>Além de comunicação, estratégia e planejamento, operamos todos os processos buscando pela excelência operacional e otimização de recursos, seja por meio da inovação de nosso sistema ou de nossas parcerias estratégicas</p>
-					<a href="https://vasto.com.br" target="_blank">
+					<a> href="https://vasto.com.br" target="_blank">
 						<img src="./imagens/botao.png" alt="clique aqui"/>
 					</a>
-					<p>Para mais informações acesse: <a href="https://vasto.com.br" target="_blank">vasto.com.br</a> </p>
+					<p>Para mais informações acesse: <a> href="https://vasto.com.br" target="_blank">vasto.com.br</a> </p>
 				</td> 
 			</tr>
 		</table> 
