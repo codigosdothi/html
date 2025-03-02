@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Exercício</title>
+		<!-- Layout básico para Email Marketing por Thiago Soares-->
+		<meta charset="UTF-8">
+		<style type="text/css">
+			body{
+				font-family: sans-serif;
+			}
+		</style>
+	</head>
+	<body bgcolor="#CCCCCC"> 
+
+		<!-- 
+			1.Cabeçalho
+			2.Imagem
+			3.Titulo 1
+			4.Paragráfo
+			5.Botão com redirecionamento
+			6. Paragrafo com link
+
+		-->
+		<center> 
+		<table bgcolor="#FFFFFF" width="600"> 
+			<tr> 
+				<td>
+					<img scr="./imagens/cabecalho.png" alt="logo da vasto"/>
+				</td>
+			</tr>
+			<tr> 
+				<td align="center"> 
+					<img src="./imagens/imagem.png" alt="Foto do produto"/>
+					<h1 style="color: #5F3AA2">Inovação para Realizar</h1>
+					<p>Além de comunicação, estraégia e planejamento, operamos todos os processos buscando pela excelência operacional e otimização de recursos, seja por meio da inovação de nosso sistema ou de nossas parcerias estratégicas</p>
+					<a href="https://vasto.com.br" target="_blank">
+						<img src="./imagens/botao.png" alt="clique aqui"/>
+					</a>
+					<p>Para mais informações acesse: <a href="https://vasto.com.br" target="_blank">vasto.com.br</a> </p>
+				</td> 
+			</tr>
+		</table> 
+		</center>
+	</body>
+	</html>
